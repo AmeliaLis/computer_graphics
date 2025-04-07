@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 1000, 1000
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Serduszko w Pygame")
 
-# colours
+# kolory
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
 
